@@ -6,8 +6,7 @@
 
 html {
   block-size: 100%;
-  overflow: auto;
-}
+ }
 
 .page {
   inline-size: 1200px;
